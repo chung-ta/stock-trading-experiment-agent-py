@@ -31,6 +31,9 @@ def interactive_mode():
     
     print("🚀 Stock Trading Expert Agent - Interactive Mode")
     print("=" * 60)
+    print("⚠️  DISCLAIMER: FOR EDUCATIONAL/TESTING PURPOSES ONLY")
+    print("⚠️  NOT FINANCIAL ADVICE - DO YOUR OWN RESEARCH")
+    print("=" * 60)
     print("Enter a stock symbol to analyze (or 'quit' to exit)")
     print("=" * 60)
     

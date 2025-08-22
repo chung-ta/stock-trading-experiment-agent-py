@@ -1,6 +1,16 @@
 # Stock Trading Expert Agent 📈
 
-An intelligent stock trading analysis agent that combines real-time market data from Yahoo Finance with AI-powered analysis using OpenAI's GPT-4 to provide investment recommendations.
+An intelligent stock trading analysis agent that combines real-time market data from Yahoo Finance with AI-powered analysis using OpenAI's GPT models to provide investment recommendations.
+
+## ⚠️ IMPORTANT DISCLAIMER ⚠️
+
+**This project is for EDUCATIONAL and TESTING PURPOSES ONLY.**
+
+- **NOT FINANCIAL ADVICE**: This tool does not provide financial advice. All output is for educational purposes only.
+- **NO GUARANTEES**: Stock market investments carry risk. Past performance does not guarantee future results.
+- **DO YOUR OWN RESEARCH**: Always conduct your own research and consult with qualified financial advisors before making any investment decisions.
+- **NO LIABILITY**: The creators and contributors of this project are not liable for any financial losses incurred from using this tool.
+- **EXPERIMENTAL**: This is an experimental project demonstrating AI capabilities and should not be used for actual trading decisions.
 
 ## Features 🚀
 
@@ -284,9 +294,23 @@ Common errors:
 - API rate limits apply to both Yahoo Finance and OpenAI
 - Some international stocks may have limited data availability
 
-## Disclaimer 📝
+## Legal Disclaimer 📝
 
-This tool is for educational and informational purposes only. It should not be considered as financial advice. Always do your own research and consult with qualified financial advisors before making investment decisions.
+**IMPORTANT: EDUCATIONAL AND TESTING PURPOSES ONLY**
+
+This software is provided "as is" for educational and testing purposes only. By using this software, you acknowledge and agree that:
+
+1. **No Financial Advice**: This tool does not provide financial, investment, trading, or other advice. Any information provided is for educational purposes only.
+
+2. **No Warranties**: The software is provided without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+3. **Risk Disclosure**: Trading stocks and other financial instruments involves substantial risk of loss and is not suitable for all investors. Past performance is not indicative of future results.
+
+4. **No Liability**: In no event shall the authors, contributors, or copyright holders be liable for any claim, damages, or other liability arising from the use of this software.
+
+5. **User Responsibility**: You are solely responsible for any investment decisions you make. Always consult with qualified financial professionals before making investment decisions.
+
+6. **Compliance**: You are responsible for complying with all applicable laws and regulations in your jurisdiction regarding securities trading and investment.
 
 ## Contributing 🤝
 
